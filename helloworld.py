@@ -1,0 +1,6 @@
+print("hello world")
+print ("Nazmul new")
+print ("10+10")
+print ("10-10")
+print ("10*10")
+print ("10/10")
